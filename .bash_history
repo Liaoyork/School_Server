@@ -1,106 +1,3 @@
-vim Matrix.cpp
-g++ -o A-1 A-1.cpp Matrix.cpp
-valgrind ./A-1
-vim Matrix.cpp
-g++ -o A-1 A-1.cpp Matrix.cpp
-valgrind ./A-1
-g++ -o A-1-2 A-1-2.cpp Matrix.cpp
-valgrind ./A-1-2
-cat A-2
-cat A-3
-cat A-3.cpp
-cat A-3-2.cpp
-vim Matrix.cpp
-g++ -o A-3 A-3.cpp Matrix.cpp
-vim Matrix.cpp
-g++ -o A-3 A-3.cpp Matrix.cpp
-./A-2
-./A-3
-vim Matrix.cpp
-g++ -o A-3 A-3.cpp Matrix.cpp
-./A-2
-./A-3
-g++ -o A-3-2 A-3-2.cpp Matrix.cpp
-./A-3-2
-valgrind ./A-3
-valgrind ./A-3-2
-vim Matrix.cpp
-g++ -o A-3-2 A-3-2.cpp Matrix.cpp
-vim Matrix.cpp
-g++ -o A-3-2 A-3-2.cpp Matrix.cpp
-valgrind ./A-3-2
-vim Matrix.cpp
-g++ -o A-3-2 A-3-2.cpp Matrix.cpp
-valgrind ./A-3-2
-cd ../../e
-cd ../../E
-ls
-cd ../D
-ls
-
-ls
-vim Class.h
-ls
-cd 111-2/midterm1/D
-ls
-vim Class.cpp
-cd
-vim .vimrc
-cd 111-2/midterm1/D
-ls
-vim Class.cpp
-cd
-cd 111-2/lab6/6-1
-ls
-cd ../../lab5
-ls
-cd 5-1
-ls
-cat 5-1_finish.cpp 
-cd ../5-2
-ls
-cat Score.cpp
-cd
-cd 111-2/hw1/1-2
-ls
-cat Stock.cpp
-cat Stock.h
-cd
-vim .vimrc
-cd 111-2/hw1/1-2
-ls
-vim Stock.cpp
-cd
-
-cd 111-2/hw1/1-2
-vim Stock.cpp
-cd /home/share/midterm/
-ls
-cd D
-ls
-cat Class.h
-cd
-cd 111-2/hw1/1-2
-ls
-cat Stock.cpp
-cd 
-cd 111-2/lab1
-ls
-cd ex1-3
-ls
-cat Array.cpp
-cd ../../lab2
-ls
-tree
-cd ex2-1
-;s
-ls
-cat VM.cpp
-cd
-cd 111-2/midterm1/D/
-ls
-cd /home/share/midterm/D/
-ls
 cat level2.txt
 clear
 cd 111-2/lab0/111101020_hw0/
@@ -1998,3 +1895,106 @@ vim hw2-2.cpp
 make
 vim
 vim .vimrc
+ls
+vim .vimrc
+cd 111-2/lab9
+cd 9-1
+ls
+vim Electronics.cpp
+cd 
+vim .vimrc
+cd 111-2/lab9/
+cd 9-1/
+ls
+vim Electronics.cpp
+cd
+clear
+cd
+ls -a
+cd git-practice/
+ls
+ls -a
+ls
+cd
+rm -r git-practice/
+ls
+cd git-practice/
+ls
+ls -a
+rm .git
+rm -r .git
+rm .git -force
+rm .git --force
+rm -r .git --force
+ls
+ls -a
+cd ..
+ls
+rm -r git-practice/
+ls
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Liaoyork/School_Server.git
+git log
+git status
+git add .
+ls -a
+git checkout
+git pull
+git commit
+git add .
+ls -a
+cd .vim
+ls
+cd
+git add 11-2
+git add 111-2
+git add .vim
+cd .vim
+ls
+ls -a
+rm -r .git
+ls
+ls -a
+cd ..
+ls
+ls -a
+git add .
+git submodule add .vim/bundle/ale .vim/bundle/nerdtree .vim/bundle/vim-airline-themes .vim/bundle/vim-airline .vim/bundle/vim-colorschemes .vim/bundle/vim-nerdtree-tabs .vim/pack/plugins/start/supertab ctags
+git submodule add .vim/bundle/ale
+git add .
+git status
+git add ctags
+git status
+git add ctag
+git status
+cd ctags/
+ls
+ls -a
+clear
+ls -a
+git submodule add ctags
+rm -r .git
+rm -r .git -froce
+rm -r .git --force
+ls
+cd 
+git add .
+git status
+git commit -m "0511"
+git push
+git push --set-upstream origin main
+cd 111-2/lab9/9-2
+ls
+vim Food.cpp
+cd
+git commit
+git add .
+git status
+git commit -m "0511-test"
+git push
+vim .vimrc
+exit
+clear
