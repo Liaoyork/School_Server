@@ -6,6 +6,7 @@
 #include "Commodity.h"
 using namespace std;
 Food::Food(int* car, int* pro, int* fat, string name, int price) : Commodity(name, price) {
+    cout << "";
     this->car_value = car;
     this->pro_value = pro;
     this->fat_value = fat;
