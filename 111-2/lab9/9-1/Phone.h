@@ -1,0 +1,33 @@
+#include "Electronics.h"
+
+#ifndef _PHONE_H_
+#define _PHONE_H_
+
+
+
+class Phone : public Electronics{
+    private:
+        int current_power;
+        int in_rate;
+        int out_rate;
+    public:
+        Phone(int,int,int,int);
+        void run();
+        void charge();
+        void poweron();
+        void poweroff();
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+#endif

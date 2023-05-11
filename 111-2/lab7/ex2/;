@@ -1,0 +1,25 @@
+#include "Circle.h"
+#include "Shape.h"
+
+Circle::Circle(int l, int x,int y,int canva) : Shape::Shape(l,x,y,canva){
+    L = l;
+    pos_x = x;
+    pos_y = y;
+}
+Circle::Circle(int l, int x,int y) :Shape::Shape(l,x,y){
+    L = l;
+    pos_x = x;
+    pos_y = y;
+    canvas_size = 20;
+}
+void Circle::ComputeArea(){
+    cout << "Area: " << L * L * PI << endl; 
+}
+void Circle::ComputePerimeter(){
+    cout << "Perimeter: " << 2 * L * PI << endl; 
+}
+void Circle::ComputePoints();
+void Circle::draw(){
+    Shape::draw();
+}
+
