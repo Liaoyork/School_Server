@@ -23,11 +23,19 @@ class Shape {
 
    public:
     /* any member functions if necessary */
-    Shape(int,int,int);
-    Shape(int,int,int,int);
-    void setVectorSize();
+    Shape(int, int, int);
+    Shape(int, int, int, int);
     void appendPoints(int x, int y);
     void draw();
+    int getL();
+    int getPos_x();
+    int getPos_y();
+    int getCanva();
+    // virtual vector<Point> getPoint();
+    virtual void ComputePoints();
+    virtual void ComputePerimeter();
+    virtual void ComputeArea();
 };
 
 #endif
+

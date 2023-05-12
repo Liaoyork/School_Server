@@ -1,54 +1,3 @@
-cat level2.txt
-clear
-cd 111-2/lab0/111101020_hw0/
-ls
-cd testcase1
-;s
-ls
-cat p1.cpp
-cd ../
-ls
-cd testcase3
-ls
-cat p3.cpp
-cd ../testcase4
-ls
-cat p4.cpp
-cd 
-ls
-cd 111-2/
-ls
-mkdir hw0
-ls
-cd hw0
-ls
-claer
-c;ear
-clear
-cd 
-cd /home/share/hw0
-ls
-cd ..
-cp -r hw0 /home/stu111101020/
-cd hw0
-ls
-cd 1
-ls
-./1
-./1 testcase
-cat 1
-cat testcase/
-cd testcase/
-ls
-cd ..
-ls
-cp -r testcase /home/stu111101020/111-2/hw
-cp -r testcase /home/stu111101020/111-2/hw0
-tree 111-2
-tree /home/stu111101020/111-2/hw0
-cd
-cd 111-2/hw0
-ls
 mkdir 1 2 3 4 5
 mv testcase/ 1
 lss
@@ -1998,3 +1947,54 @@ git push
 vim .vimrc
 exit
 clear
+cd /home/share/hw3
+cd /home/share/hw2
+;s
+ls
+cd hw2-1
+ls
+cd Spotify_v2/
+ls
+vim Spotify.h 
+cd
+cd 111-2/hw2
+ls
+cd hw2-1
+ls
+vim 
+code .
+vim 
+make
+./hw2-1 music.txt 
+cd ../hw2-2
+ls
+make
+cat *.cpp
+cat *.h
+cd
+git add .
+git log
+git commit -m "0511-1"
+gti status
+git status
+git push
+git log
+gl
+clear
+tree 111-2/lab6
+cd 111-2/lab6
+ls
+cd 6-2
+ls
+./1
+cd ..//
+ls
+cd ../
+ls
+cd lab7
+ls
+c
+tree
+cd ex2
+ls
+vim 
