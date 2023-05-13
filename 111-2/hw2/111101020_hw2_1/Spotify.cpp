@@ -83,6 +83,10 @@ void Spotify::logIN() {
     cin >> name;
     cout << "User passwd: ";
     cin >> passwd;
+    if ((int)users.size() == 0){
+        cout << "The User doesn't exist" << endl;
+        return;
+    }
     for (int i = 0; i < (int)users.size(); i++) {
         if (users[i]->name == name) {
             index = i;

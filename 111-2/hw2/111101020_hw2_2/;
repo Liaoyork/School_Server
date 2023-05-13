@@ -23,6 +23,9 @@ Role::Role(int hp, int attack, int defense, int speed, char Pro) : oriHP(hp) {
     this->Pro = Pro;
     isDefence = false;
 }
+Role::~Role(){
+    ;
+}
 void Role::subhp(int spec, Role* player) {
     if (!isDefence) {
         hp -= spec;

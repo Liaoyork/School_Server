@@ -14,6 +14,7 @@ class Role {
 
    public:
     Role(int, int, int, int, char);
+    virtual ~Role();
     const int oriHP;
     void subHP_V(int);
     int getSpeed();
@@ -40,6 +41,9 @@ class Mage : public Role {
         {' ', ' ', '|', ' ', ' '},
         {' ', '/', ' ', '\\', ' '}};
     Mage(int, int, int, int, int, char);
+    ~Mage(){
+        ;
+    }
     void showmovement(int);
     int attacking();
 };
@@ -55,6 +59,9 @@ class Warrior : public Role {
         {' ', '[', '|', ']', ' '},
         {' ', '/', ' ', '\\', ' '}};
     Warrior(int, int, int, int, float, char);
+    ~Warrior(){
+        ;
+    }
     int attacking();
     void showmovement(int);
 };
@@ -69,6 +76,9 @@ class Vampire : public Role {
         {' ', ' ', '|', ' ', ' '},
         {' ', '/', ' ', '\\', ' '}};
     Vampire(int, int, int, int, float, char);
+    ~Vampire(){
+        ;
+    }
     int attacking();
     void showmovement(int);
 };

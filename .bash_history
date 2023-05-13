@@ -1,51 +1,3 @@
-mkdir 1 2 3 4 5
-mv testcase/ 1
-lss
-ls
-cd
-cd /home/share/hw0/
-ls
-cd 2
-ls
-cp -r testcase /home/stu111101020/111-2/hw0/2
-cd ..
-ls
-cd 3
-ls
-cp -r testcase /home/stu111101020/111-2/hw0/3
-cd ..
-ls
-cd 4
-ls
-cp -r testcase /home/stu111101020/111-2/hw0/4
-cd ..
-cd 5
-cp -r testcase /home/stu111101020/111-2/hw0/5
-cd
-cd 111-2/hw0
-ls
-cd 2
-cd ..
-ls
-cd ..
-ls
-cd lab0
-ls
-cd 111101020_hw0/
-ls
-cd testcase1
-ls
-cd ..
-cd testcase2
-ls
-cp p2.cpp /home/stu111101020/hw0/2
-cd /home/stu111101020/hw0/
-ls
-cd 2
-ls
-mv p2.cpp testcase/
-ls
-ccd testcase/
 cd testcase/
 ls
 g++ p2.cpp -o 2
@@ -1998,3 +1950,51 @@ tree
 cd ex2
 ls
 vim 
+clear
+cd 111-2/lab7/
+ls
+cd ex2
+ls
+vim Circle.cpp
+vim
+vim makefile
+make
+vim
+make
+vim
+make
+vim
+make
+.//7-2
+make
+make clean
+make
+make clean
+vim makefile 
+make clean
+make 
+make clean
+make run
+make clean
+cd
+git add .
+git commit -m "0512-1"
+git push -u origin main
+git status
+git push
+exit
+vi
+ls
+cd 111-2/hw2
+lls
+ls
+cd hw2-1
+ls
+make
+make clean
+make
+./hw2-1 music.txt
+vim Spotify.cpp
+make
+./hw2-1 music.txt
+valgrind ./hw2-1 music.txt

@@ -77,6 +77,7 @@ int main() {
         cout << endl;
     }
     Role *Main_player, *Sec_player;
+    Role *k;
     int round = 1;
     int t = 0;
     if (players.at(0)->getSpeed() > players.at(1)->getSpeed()) {
@@ -165,7 +166,6 @@ int main() {
             break;
         }
         // change
-        Role *k;
         k = Main_player;
         Main_player = Sec_player;
         Sec_player = k;
@@ -247,5 +247,11 @@ int main() {
         Main_player = Sec_player;
         Sec_player = k;
     }
+    if (a != NULL) delete a;
+    if (b != NULL) delete b;
+    if (c != NULL) delete c;
+    Main_player = NULL;
+    Sec_player = NULL;
+    k = NULL;
 }
 

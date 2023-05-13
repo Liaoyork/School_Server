@@ -11,5 +11,5 @@ Song.o:Spotify.h Playlist.h User.h Song.h Song.cpp
 main.o:Spotify.h Playlist.h User.h Song.h main.cpp
 	g++ -c main.cpp
 clean:
-	rm -rf *.o Spotify
+	rm -rf *.o hw2-1
 
