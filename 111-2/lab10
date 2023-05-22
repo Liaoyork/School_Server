@@ -1,0 +1,39 @@
+// ex10-1.cpp
+class Point2D
+{
+private:
+    int x;
+    int y;
+public:
+    // add any member if necessary
+};
+template<class T>
+void analysis(int n)
+{
+    T *vec = new1D<T>(n);
+    rand1D<T>(vec, n);         
+    // for int, 0~9
+    // for double, 0.00~9.99, i.e., rand()%1000/100.0
+    // for char, A~Z 
+    // for Point2D, x: 0~9 y: 0~9
+    display1D<T>(vec, n);
+    // for double, set the precision with 2
+    sort1D<T>(vec, n);
+    display1D<T>(vec, n);
+}
+
+int main()
+{
+    int n;
+    cout << "Enter n: ";
+    cin >> n;
+    
+    srand(1);
+    
+    analysis<int>(n);
+    analysis<double>(n);
+    analysis<char>(n);
+    analysis<Point2D>(n);
+
+    return 0;
+}
