@@ -247,11 +247,5 @@ int main() {
         Main_player = Sec_player;
         Sec_player = k;
     }
-    if (a != NULL) delete a;
-    if (b != NULL) delete b;
-    if (c != NULL) delete c;
-    Main_player = NULL;
-    Sec_player = NULL;
-    k = NULL;
 }
 

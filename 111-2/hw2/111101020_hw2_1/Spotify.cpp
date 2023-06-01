@@ -67,7 +67,7 @@ void Spotify::createUser() {
     cin >> passwd;
     for (int i = 0; i < (int)users.size(); i++) {
         if (users[i]->name == name) {
-            cout << "User already exists" << endl;
+            cout << "User already exists." << endl;
             return;
         }
     }
