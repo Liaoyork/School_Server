@@ -1,318 +1,3 @@
-Banana
-Orange
-./1
-Book
-Eraser
-Violin
-Piano
-Drum
-Apple
-Banana
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-vim main.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-valgrind ./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-cd 111-2/lab7
-ls
-cd ex1
-
-valgrind ./1
-./1
-valgrind ./1
-./1
-valgrind ./1
-./1
-valgrind ./1
-./1
-valgrind -s ./1
-./1
-valgrind -s ./1
-valgrind ./1
-ls
-cd 111-2/
-ls
-cd lab7
-LS
-ls
-cd ex1 e1cp
-cd -r ex1 e1cp
-cd -R ex1 e1cp
-cp -r ex1 e1cp
-ls
-cd e1cp
-ls
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-vim Stocks.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-valgrind .1
-valgrind ./1
-vim main.cpp
-g++ -o 1 Fruits.cpp main.cpp Stocks.cpp
-./1
-vim main.cpp
-cd ..
-ls
-rm ex1
-rm -r ex1
-mv e1cp ex1
-ls
-cd ex2
-ls
-cd
-ls
-cd hw0/
-ls
-cd 1/testcase/
-ls
-vim 1.cpp
-rm 1.cpp
-vim 1.cpp
-g++ 1.cpp
-g++ 1.cpp -o 1
-ls
-rm a.out
-./1 1.in 1.out
-./1 2.in 2.out
-./1 3.in 3.out
-./1 4.in 4.out
-cat 1.out
-cat 2.out
-cat 3.out
-cat 4.out
-cd 
-cd home/share
-cd home
-cd /home/share/
-ls
-cd hw0
-ls
-cd 1
-ls
-./1 testcase/1.in 1.out
-./1 testcase/2.in 2.out
-ls
-cd testcase/
-;s
-ls
-cd ..
-./1 testcase/2.in 2.out
-cat 2.out
-cd 
-ls
-cd hw0/
-l
-cd 1
-cd testcase/
-ls
-/home/share/hw0/1/1 1.in 1_1.out
-/home/share/hw0/1/1 2.in 2_2.out
-/home/share/hw0/1/1 3.in 3_3.out
-/home/share/hw0/1/1 4.in 4_4.out
-ls
-diff -bB 1.out 1_1.out
-diff -c 1.out 1_1.out
-cat 1_1.out
-diff -bB 2.out 2_2.out
-diff -c 1.out 2_2.out
-diff -bB 3.out 3_3.out
-diff -bB 4.out 4_4.out
-diff -bB 3.out 4_4.out
-ls
-rm 1_1.out 2_2.out 3_3.out 4_4.out 
-ls
-cd ../../4
-ls
-cd testcase/
-ls
-cat 1_1.in
-rm 1_1.in 1_1.out
-ls
-./4 2.in 2.out
-./4 1.in 1.out
-cd 4.cpp
-vim 4.cpp
-g++ 4.cpp -o 4
-./4 1.in 1.out
-vim 4.cpp
-rm 4.cpp
-vim 4.cpp
-g++ 4.cpp -o 4
-./4 1.in 1.out
-./4 2.in 2.out
-/home/share/hw0/4/4 1.in 1_.out
-/home/share/hw0/4/4 2.in 2_.out
-diff -bB 1_.out 1.out
-diff -bB 2_.out 2.out
-diff -bB 2_.out 1.out
-diff -bB 2_.out 2.out
-clear
-cd ../../
-ls
-cd 1
-ls
-cd testcase/
-ls
-/home/share/hw0/1/1 3.in 3_.out
-diff 3_.out 3.out
-diff 3_.out 1.out
-clear
-cd 
-cd hw0/2
-ls
-cd testcase/
-ls
-mv p2.cpp 2.cpp
-cat 2.cpp
-ls
-cat 1.set
-/home/share/hw0/2/2 1.set 1.data 1.rand1 1.rand2
-./2
-./2 1.set 1.data 1.rand1 1.rand2
-clear
-cd 
-cd hw0/
-ls
-cd 5
-ls
-cd testcase/
-ls
-vim 5.cpp
-g++ 5.cpp -o 5
-./5 1.txt
-ls
-vim 5.cpp
-g++ 5.cpp -o 5
-./5 1.txt
-/home/share/hw0/5/5 1.txt
-cat 123.txt
-vim 5.cpp
-g++ 5.cpp -o 5
-./5 1.txt
-/home/share/hw0/5/5 1.txt
-touch 123_.txt
-vim 123_.txt 
-diff -bB 123.txt 123_.txt
-ls
-cd hw0/
-ls
 cd 5/testcase/
 ls
 vim 5.cpp
@@ -1998,3 +1683,318 @@ python3 1.py
 vim 1.py
 python3 1.py
 clear
+cp /home/share/lab11 /home/stu111101020/111-2/
+cp -r /home/share/lab11 /home/stu111101020/111-2/
+cd 111-2/
+ls
+cd lab11/
+ls
+cd ex
+cd ex1
+ls
+touch EEE.cpp Group.cpp Student.cpp 
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+vim
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+vim
+g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
+./ex11_1
+cd ../../
+ls
+cd lab10-1
+ls
+cd ex2
+ls
+
+ls
+vim
+make
+vim
+make
+vim
+make
+vim
+make
+./10-2
+cd ..
+ls
+cd ..
+cd lab9
+ls
+cd 9-2
+ls
+make
+./main
+./1
+make
+make clean
+make
+valgrind ./main 1.txt
+cd ../../
+ls
+cd lab7/
+ls
+cd ex1
+ls
+./1
+valgrind ./1
+cd ../ex2
+ls
+make
+./7-2
+cd ../../
+cd lab5
+ls
+cd 5-1
+ls
+./5-1
+cd ../../
+la
+cd lab11
+ls
+cd ex2
+ls
+cat *
+cat D1.in
+cat D2.in
+cd ../ex1
+ls
+vim
+ls
+cd
+git add .
+git commit -m "0522-1"
+git push origin main
+exiit
+exit
+vim
+ls
+./1_1.out 
+ls
+cd 111-2/lab11/ls
+cd 111-2/lab11/
+ls
+cd ex2
+ls
+touch 11-2.cpp
+cd
+exit
+clear
+cd 111-2/lab6
+ls
+cd 6-2
+ls
+vim
+cat 1.data
+cat 1.dat
+hexdump 1.dat
+vim
+g++ 6-2.cpp -o 1
+./1
+cat 1.out
+vim
+g++ 6-2.cpp -o 1
+./1
+vim
+g++ 6-2.cpp -o 1
+./1
+vim
+./1
+vim
+g++ 6-2.cpp -o 1
+./1
+vim
+cd 111-2/lab11
+s
+ls
+cd ex2
+ls
+cat D1.in
+cat D2.in
+exit
+clear
+cd 111-2/lab6
+ls
+cd 6-2
+ls
+
+ls -a
+rm .6-2.cpp.swp 
+vim
+g++ 6-2.cpp -o 1
+./1 1.dat
+./1 2.dat
+./1 3.dat
+s
+ls
+cd
+cd 111-2/lab11
+ls
+cd ex2
+LS
+ls
+vim
+cd 111-2/hw1
+ls
+cd 1-
+cd 1-1
+ls
+unzip 111101020_hw1_1.zip 
+unzip 111101020_hw1_1.zip /home/stu111101020/
+cd ..
+ls
+cdc 
+cd
+ls
+cd 111-2/hw1
+ls
+cd 1-1
+ls
+g++ hw1-1.cpp BST.cpp -o 1-1
+./1-1
+vim
+cd ../1-2
+ls
+cat *
+cd /home/share/
+ls
+cd hw3
+cd hw2
+ls
+cd hw2-1
+ls
+cd Spotify_v2/
+ls
+vim
+:wq
+exit
+ls
+cd /home/share/hw3
+ls
+./hw3-2_demo 
+./hw3-1_demo 
+./hw3-2_demo 
+cd
+ls
+cd 111-2/lab6
+cd 6-1
+ls
+./6-1
+vim 
+cd ../6-2
+ls
+./1
+./1 1.dat
+./1 2.dat
+./1 3.dat
+cd ../../
+ls
+cd lab11
+ls
+cd ex2
+ls
+vim
+g++ 11-2.cpp -o 1
+./1 D1.in catcatscatdogsdog
+g++ 11-2.cpp -o ex11_2
+./ex11_2 D1.in catcatscatdooog
+./ex11_2 D1.in catcatscatdogsdog
+./ex11_2 D2.in IloveloveOOPandIlikeOPwenverymuch
+./ex11_2 D2.in IloveOOPandIlikelikeOPwenverymuch
+cd ../
+clear
+cd ../lab6
+cd e2
+cd 6-2
+ls
+./1 1.dat
+./1 2.dat
+./1 3.dat
+cd /home/share
+l
+cd hw3
+ls
+./hw3-1_demo 
+./hw3-2_demo 
+ls
+./hw3-2_demo 
