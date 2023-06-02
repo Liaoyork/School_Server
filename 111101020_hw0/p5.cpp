@@ -183,7 +183,6 @@ int main(int argc, char*argv[]) {
     curr_s = new student_node;  // NULL
     ptr_m->to_stu = curr_s;
 
-    bool first = true;
     ptr_s = head_s->next;
     while (ptr_s->next) {
         if (ptr_s->mood == -2) {
@@ -230,7 +229,6 @@ int main(int argc, char*argv[]) {
     curr_s = new student_node;  // NULL
     ptr_m->to_stu = curr_s;
 
-    first = true;
     ptr_s = head_s->next;
     while (ptr_s->next) {
         if (ptr_s->mood == 2) {
@@ -359,7 +357,6 @@ int main(int argc, char*argv[]) {
     curr_s = new student_node;  // NULL
     ptr_m->to_stu = curr_s;
 
-    first = true;
     ptr_s = head_s->next;
     while (ptr_s) {
         if (ptr_s->mood == -1) {
@@ -405,7 +402,6 @@ int main(int argc, char*argv[]) {
     curr_s = new student_node;  // NULL
     ptr_m->to_stu = curr_s;
 
-    first = true;
     ptr_s = head_s->next;
     while (ptr_s) {
         if (ptr_s->mood == 1) {

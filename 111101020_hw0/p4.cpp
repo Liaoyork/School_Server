@@ -198,7 +198,7 @@ int main(int argc, char *argv[]) {
         if (ss == "") continue;
 
         // sequence
-        for (int i = 0; i < ss.length(); i++) {
+        for (int i = 0; i < (int)ss.length(); i++) {
             while (isdigit(ss[i])) {
                 temp += ss[i];
                 i++;

@@ -1,282 +1,3 @@
-cd 5/testcase/
-ls
-vim 5.cpp
-mv 5.cpp p5.cpp
-vim 5.cpp
-g++ 5.cpp -o 5
-./5
-valgrind ./1
-valgrind ./5
-valgrind -s ./5
-clear
-vim 5.cpp
-cd hw0/
-ls
-cd 5/testcase/
-ls
-ls -
-ls -a
-rm .5.cpp.swp 
-vim 5.cpp
-g++ 5.cpp -o 5
-./5 1.txt
-vim 5.cpp
-ls
-rm p5.cpp 123_.txt 123.txt 
-ls
-clear
-cd hw0/
-cd 1
-;
-cd testcase/
-ls
-mv 1.cpp p1.cpp
-mv 1 p1
-ls
-./p1 1.in 1.out
-cat 1.out
-cd ..
-cd .
-cd ..
-ls
-cd 2
-ls
-cd testcase/
-ls
-mv 2.cpp p2.cpp
-ls
-mv 2 p2
-cd ../../4
-ls
-cd testcase/
-ls
-rm 1_1.out 1_.out 2_.out 
-ls
-cat 1.out
-clear
-ls
-mv 4 p4
-mv 4.cpp p4.cpp
-ls
-cd ../../5
-ls
-cd testcase/
-ls
-mv 5 p5
-mv 5.cpp p5.cpp
-ls
-./p5 1.txt
-exit
-ls
-cd 111-2/lab7/ex2/
-ls
-cat main.cpp 
-touch Circle.cpp Rect.cpp Triangle.cpp Shape.cpp
-clear
-ls
-vim Circle.cpp
-vim Shape.cpp
-vim Sq.cpp
-vim Square.cpp
-vim Circle.h
-ls
-cd 111-2/lab7/
-s
-cd ex2
-ls
-rm .Shape.h.swp 
-ls
-vim Shape.cpp
-vim Circle.cpp
-cd 111-2/lab7/ex2
-ls
-ls -a
-cat .Circle.cpp.swp 
-cd 111-2/lab7/ex2
-ls
-vim Circle.cpp
-rm .Circle.cpp.swp 
-exit
-ls
-clear
-cd 111-2/lab8
-cd 111-2
-mkdir lab8
-ls
-clear
-tree /home/share/lab8
-cp -r /home/share/lab8 /home/stu111101020/111-2/lab8
-cd lab8
-ls
-cd lab8/
-ls
-cd ex8-1
-ls
-cat input
-cat inputs
-cd inputs/
-ls
-cat courses.csv 
-cat personals.csv 
-clear
-vim courses.csv 
-cd ../
-ls
-cat Course.h 
-cat E3.h 
-cat makefile_template 
-cd ../ex8-2
-ls
-cat ex8-2-1.cpp
-cat ex8-2-2.cpp
-cd ../
-ls
-cd ex8-1/
-ls
-mv inputs/courses.csv .
-ls
-mv inputs/personals.csv .
-rm inputs/
-rm -r inputs
-ls
-cat makefile_template 
-mkdir inputs
-mv courses.csv personals.csv inputs
-ls
-vim makefile_template 
-vim E3.cpp 
-cd ../ex8-2
-ls
-g++ ex8-2-1.cpp -o 1 -g
-ls
-gdb ./1
-clear
-gdb ./2
-clear
-g++ ex8-2-2.cpp -o 2
-gdb ./2
-vim ex8-2-2.cpp
-
-gdb ./2
-gdb ./1
-gdb ./2
-vim ex8-2-2.cpp
-g++ ex8-2-2.cpp -o 2
-gdb ./2
-g++ ex8-2-2.cpp -o 2 -g
-gdb ./2
-clear
-cd ../ex8-1
-ls
-vim E3.cpp
-vim Personnel.cpp
-vim Student.cpp
-vim Personnel.cpp
-vim Course.cpp
-vim Teacher.cpp
-vim TA.cpp
-cat makefile_template 
-make all
-make ex8-1.cpp
-make ex8-1
-cat makefile_template 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Course.cpp Personnel.cpp
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Course.cpp Personnel.cpp
-vim TA.cpp
-ls
-
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 
-vim E3.cpp
-./ex8-1 inputs/courses.csv inputs/personals.csv 
-vim E3.cpp
-./ex8-1 inputs/courses.csv inputs/personals.csv 
-./ex8-1 inputs/personals.csv 
-ls
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-./ex8-1 inputs/personals.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-ls
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-./ex8-1 /inputs/personals.csv 
-./ex8-1 inputs/personals.csv 
-vim ex8-1
-vim ex8-1.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-./ex8-1 inputs/personals.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-./ex8-1 inputs/personals.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-./ex8-1 inputs/personals.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-./ex8-1 inputs/personals.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-./ex8-1 inputs/personals.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
 vim E3.cpp
 g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
 ./ex8-1 inputs/personals.csv 
@@ -1998,3 +1719,282 @@ ls
 ./hw3-2_demo 
 ls
 ./hw3-2_demo 
+cd 111-2/
+ls
+cd hw1
+ls
+mv 1-1 111101020_hw_1_1
+mv 1-2 111101020_hw_1_2
+ls
+zip -r 111101020_hw_1_1
+zip -r 111101020_hw_1_1.zip 111101020_hw_1_1
+zip -r 111101020_hw_1_2.zip 111101020_hw_1_2
+cd 111101020_hw_1_1
+ls
+./1
+1-1
+./1-1
+rm 1 1-1
+g++ hw1-1.cpp BST.cpp -o 1
+./1
+.cd ..
+cd ..
+ls
+cd 111101020_hw_1_2
+ls
+rm 1-2
+g++ hw1-2.cpp Stock.cpp -o 1
+./1
+cd ..
+ls
+rmm 111101020_hw_1_2.zip
+rm 111101020_hw_1_2.zip
+cd 111101020_hw_1_2
+rm 1
+g++ Stock.cpp hw1-2.cpp -o hw1-2
+cd ..
+zip -r 111101020_hw_1_2.zip 111101020_hw_1_2
+rm 111101020_hw_1_1.zip
+ls
+cd 111101020_hw_1_1
+ls
+rm 1
+g++ BST.cpp hw1-1.cpp -o hw1-1
+cd ..
+zip 111101020_hw_1_1.zip 111101020_hw_1_1
+zip -r 111101020_hw_1_1.zip 111101020_hw_1_1
+ls
+cd ..
+cd hw2
+;s
+ls
+unzip -r 111101020_hw2_1
+unzip 111101020_hw2_1.zip
+y
+ls
+less 111101020_hw2_1.zip
+rm 111101020_hw2_1.zip
+rm 111101020_hw2_2.zip
+ls
+cd 111101020_hw2_
+cd 111101020_hw2_1
+ls
+make clean
+ls
+make
+vim
+make clean
+make
+./hw2-1
+valgrind ./hw2-1 music.txt 
+clear
+vim
+make clean
+make
+valgrind ./hw2-1 music.txt 
+vim
+ls
+make clean
+ls
+vim
+make
+./hw2_1 music.txt 
+cd ..
+ls
+zip -r 111101020_hw2_1.zip 111101020_hw2_1
+ls
+cd 111101020_hw2_2
+ls
+;
+vim
+rm ;
+rm ';'
+ls
+rm hw2-2
+ls
+make clean
+ls
+make
+./hw2-2 
+vim
+make
+./hw2-2 
+ls
+cd ..
+zip -r 111101020_hw2_2.zip 111101020_hw2_2
+git add .
+git commit -m "0601-1"
+git push origin main
+cd 
+git add .
+git config
+git commit -m "0601-2"
+git push origin main
+ls
+./1_1.out 
+rm 1.cpp 1.py 1_1.out 
+l
+cd hw0/
+l
+ls
+cd 1
+ls
+cd
+cd 111-2/hw0
+ls
+cd 1/
+ls
+cd
+cd hw0/t
+cd hw0/
+ls
+cd 1/testcase/
+ls
+cat 1.out
+cat 2.out
+cat 3.out
+cat 4.out
+cat 2.out
+cat 1.out
+cat 3.out
+cat 4.out
+clear
+cd 
+cat 4.out
+cd hw0/1/testcase/
+ls
+./p1
+./p1 2.in 2.out
+rm *.out
+l
+./p1 1.in 1.out
+cat 1.out
+./p1 2.in 2.out
+cat 2.out
+cd ..
+ls
+cd 
+ls
+cd hw0/2
+ls
+cd testcase/
+ls
+vim p2.cpp 
+rm p2
+g++ p2.cpp -o 1
+./1 1.set 1.data 1.rand1 1.rand2
+cd ..
+ls
+cd ..
+cd 1
+cd testcase/
+ls
+mv p1.cpp *.in /home/stu111101020/111
+mv p1.cpp *.in /home/stu111101020/111-2/hw0/1/
+ls
+cd ..
+l
+ls
+cd ..
+ls
+cd 1
+ls
+cd testcase/
+ls
+cd ..
+cd .
+cd ..
+ls
+cd 111-2/hw0
+ls
+cd 1/
+ls
+mv *.in p1.cpp /home/stu111101020/hw0/1/
+cd 
+cd hw0/
+cd 2
+ls
+mv testcase/* .
+;s
+ls
+rm -r testcase/
+ls
+cd ..
+ls
+cd 1
+ls
+rm testcase/
+rm -r testcase/
+ls
+cd ..
+cd 4
+ls
+mv testcase/* .
+ls
+rm -r testcase/
+ls
+vim
+g++ p4.cpp -o 1
+rm p4 *.out
+./ 1.in 1.out
+./1 1.in 1.out
+cat 1.out
+vim
+ls
+rm 1.out
+ls
+rm 1
+ls
+cd ..
+ls
+cd 5
+ls
+mv testcase/* .
+ls
+rm -r testcase/
+ls
+./p5 1.txt
+vim
+g++ p5.cpp -o p5
+./p5 1.txt 
+ls
+cd ..
+cd..
+cd ..
+ls
+mv hw0 111101020_hw0
+ls
+cd 111101020_hw0/
+ls
+mv 1/p1.cpp .
+
+mv 3/p3.cpp .
+mv 4/p4.cpp .
+mv 5/p5.cpp .
+cd 3
+ls
+cd ..
+cd 3/testcase/
+ls
+vim p3.cpp 
+g++ p3.cpp -o 1
+./1 1.in
+cd ..
+cd 
+cd 111101020_hw0/
+ls
+vim p3.cpp 
+rm -r 1 2 3 4 5
+ls
+cd ..
+cd 111101020_hw0/
+ls
+vim
+vim p2.cpp
+vim p4.cpp
+vim p5.cpp
+cd 
+zip 111101020_hw0.zip 111101020_hw0
+rm 111101020_hw0.zip 
+zip -r 111101020_hw0.zip 111101020_hw0
+ls
