@@ -30,9 +30,6 @@ g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Cours
 ./ex8-1 inputs/personals.csv 
 vim E3.cpp
 g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
 vim E3.cpp
 ./ex8-1 inputs/personals.csv 
 vim E3.cpp
@@ -1998,3 +1995,6 @@ zip 111101020_hw0.zip 111101020_hw0
 rm 111101020_hw0.zip 
 zip -r 111101020_hw0.zip 111101020_hw0
 ls
+git add .
+git commit -m "0602-1"
+git push origin main
