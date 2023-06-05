@@ -1998,3 +1998,61 @@ ls
 git add .
 git commit -m "0602-1"
 git push origin main
+cd 111-2/hw2
+ls
+mv 111101020_hw2_1 111101020_hw_2_1
+mv 111101020_hw2_2 111101020_hw_2_2
+rm *.zip
+zip -r 111101020_hw_2_1.zip 111101020_hw_2_1
+zip -r 111101020_hw_2_2.zip 111101020_hw_2_2
+cd 
+git add .
+git commit -m "0605-1"
+git push origin main
+cd 111-2/hw1
+ls
+rm *zip
+ls
+mv 111101020_hw_1_1 111101020_hw1_1
+mv 111101020_hw_1_3 111101020_hw1_2
+mv 111101020_hw_1_2 111101020_hw1_2
+ls
+zip -r 111101020_hw1_2.zip 111101020_hw1_2
+zip -r 111101020_hw1_1.zip 111101020_hw1_1
+cd 
+git add .
+git commit -m "0605-2"
+git push origin main
+ls
+cp -r /home/share/hw1 /home/stu111101020/111-2/hw1/
+ls
+cd 111-2/hw1
+ls
+cd 111101020_hw1_1
+ls
+cd ../hw1/
+ls
+cd hw1-1
+ls
+vim
+cp ../../111101020_hw1_1/hw1-1 .
+ls
+cp ../../111101020_hw1_1/BST.h .
+cp ../../111101020_hw1_1/BST.cpp .
+ls
+./hw1-1
+./hw1-1 >1.in <temp.out
+./hw1-1 >>1.in <<temp.out
+./hw1-1 >1.in <temp.out
+touch temp.out
+./hw1-1 >1.in <temp.out
+./hw1-1 > 1.in < temp.out
+vim
+ls
+cd 111-2/hw1/111101020_hw1_1/
+ls
+cd ../hw1/
+ls
+cd hw1-1
+ls
+vim

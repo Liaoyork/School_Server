@@ -33,12 +33,13 @@ int main() {
         while (flag) {
             cout << "Who want to do the trade: ";
             cin >> temp;
+            if (temp == "q") { cout << "\n"; exit(0); }
             for (int i = 0; i < n; i++) {
                 if (stock_vec[i].get_owner_name() == temp) {
                     flag = false;
                     temp = "4";
                     while (temp != "1" && temp != "2" && temp != "3") {
-                        cout << "1.buy the stock / 2.sell the stock / 3.show stock : ";
+                        cout << "1.buy the stock / 2.sell the stock / 3.show stock: ";
                         cin >> temp;
                         if (temp == "1") {
                             stock_vec[i].buy();

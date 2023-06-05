@@ -75,8 +75,8 @@ void Stock::show_current_price() {
 }
 void Stock::check_trade_is_available() {
     double limit = init_price * limit_ratio;
-    if (init_price - cur_price > limit) {
-        trade_available = false;
+    if (init_price - cur_price > limit) trade_available = false;
+    if (!trade_available) {
         cout << "trade is not available anymore" << endl;
     }
 }
