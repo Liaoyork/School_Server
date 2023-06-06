@@ -1,224 +1,3 @@
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-vim E3.cpp
-./ex8-1 inputs/personals.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv 
-cd ../../../lab6
-ls
-tree
-cd 6-2
-cat 6-2.cpp
-cd ../../lab7
-ls
-tree
-cd ex1
-ls
-./1
-valgrind ./1
-cat Stocks.
-cat Stocks.cpp
-cat Fruits.cpp
-cd 111-2/lab8/lab8/ex8-1
-ls
-cat Personnel.cpp
-ls
-vim Teacher.cpp
-vim TA.cp
-vim TA.cpp
-vim Student.cpp
-vim Personnel.cpp
-vim E3.cpp
-vim E3.h
-cd ..
-cd
-cd 111-2/
-rm -r lab8
-cd lab
-cd lab8
-ls
-cd lab8/
-ls
-cd ex8-1
-ls
-make run
-vim makefile_template 
-make all
-vim makefile_template 
-make ex8-1
-ls
-rm ex8-1
-make all
-make 
-make ex8-1
-vim makefile_template 
-make ex8-1
-vim makefile_template 
-make ex8-1
-ls
-vim E3.cpp
-make ex8-1
-vim makefile_template 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-vim TA.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim Course.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim Course.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-vim Course.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-vim Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim TA.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim TA.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim TA.cpp
-cd 111-2/lab8/
-cd lab8/
-ls
-cd ex8-1'
-
-
-;
-'
-cd ex8-1
-ls
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim Student.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim TAs.cpp
-vim TA.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-vim E3.cpp
-g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
-vim E3.cpp
-./ex8-1 inputs/personals.csv inputs/courses.csv 
-vim E3.cpp
 g++ -o ex8-1 ex8-1.cpp Teacher.cpp TA.cpp E3.cpp Student.cpp Personnel.cpp Course.cpp
 ./ex8-1 inputs/personals.csv inputs/courses.csv 
 vim E3.cpp
@@ -2056,3 +1835,166 @@ ls
 cd hw1-1
 ls
 vim
+ls
+cd 111-2/hw1/hw1/hw1-1
+ls
+cat 1.in
+rm 1.in
+cat 1.out
+clear
+cp /home/share/hw1/hw1-1/1.in .
+ls
+./hw1-1 < 1.in  > temp.out
+diff temp.out 1.out
+vim
+ls
+cd ../hw1-1/
+ls
+../../ls
+../../111101020_hw1_1/
+ls
+cd 
+cd 111-2/hw1/111101020_hw1_1/
+ls
+cp hw1-1.cpp ../hw1/hw1-1
+ls
+cd ../hw1/hw1-1
+ls
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff temp.out 1.out
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff temp.out 1.out
+cd 
+cd 111-2/hw1/111101020_hw1_1
+ls
+vim
+g++ *.cpp -o 1
+ls
+rm *.zip
+ls
+cd ..
+cd
+cd 111-2/hw1/
+ls
+rm *.zip
+zip -r 111101020_hw1_1.zip 111101020_hw1_1
+cd
+cd 111-2/hw1
+ls
+cd hw1/hw1-2
+ls
+cp * ../../111101020_hw1_2
+ls
+cd ../..
+cd 111101020_hw1_2
+ls
+./hw1-2.cpp < 1.in > temp.out
+./hw1-2 < 1.in > temp.out
+diff 1.out temp.out
+cat 1.out
+cat temp.out
+cat 1.inn
+cat 1.in
+vim
+ls
+g++ *.cpp -o 1
+g++ hw1-2.cpp -o 1
+ls
+rm temp.out
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff temp.out 1.out
+cat temp.out
+clear
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+rm temp.out
+cat 1.in
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff 1.out 1.temp
+diff 1.out temp.out
+cat 1.out
+vim
+cat temp.out
+ls
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff 1.out temp.out
+vimm
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff 1.out temp.out
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff 1.out temp.out
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff 1.out temp.out
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff 1.out temp.out
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff 1.out temp.out
+vim
+diff 1.out temp.out
+diff temp.out 1.out
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff temp.out 1.out
+cd ..
+cd 111101020_hw1_2
+l
+ls
+rm 111101020_hw1_2.zip 1 hw1-2 temp.out
+ls
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff 1.out temp.out
+ls
+cd ..
+ls
+zip -r 111101020_hw1_2.zip 111101020_hw1_2
+cd 
+git add .
+git commit -m "0605-3"
+git push origin main
+cd 111-2/hw1
+ls
+cd 111101020_hw1_1
+ls
+cp /home/share/hw1/hw1-1/1.in /home/share/hw1/1.out .
+ls
+cp /home/share/hw1/hw1-1/1.in .
+cp /home/share/hw1/hw1-1/1.out .
+ls
+rm hw1-1 1
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff temp.out 1.out
+cd ../111101020_hw1_2
+ls
+./1 < 1.in > temp.out
+diff temp.out 1.out
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff temp.out 1.out
+vim
+g++ *.cpp -o 1
+./1 < 1.in > temp.out
+diff temp.out 1.out

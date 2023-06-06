@@ -3,13 +3,19 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <algorithm>
 
 #include "Playlist.h"
 #include "Song.h"
 using namespace std;
 
+bool sortList(Playlist* o1, Playlist* o2){
+    return o1->name < o2->name;
+}
+
 void User::show_list() {
-    cout << "|| Play list: ";
+    cout << "|| PLAY LIST: ";
+    sort(all_list.begin(), all_list.end(), sortList);
     for (int i = 0; i < (int)all_list.size(); i++) {
         cout << all_list[i]->name << " ";
     }
@@ -28,7 +34,7 @@ void User::choose_list() {
             break;
         }
     }
-    if (!find) cout << "List does't exist" << endl;
+    if (!find) cout << "List doesn't exist" << endl;
 }
 void User::add_list() {
     string ss;

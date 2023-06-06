@@ -33,7 +33,7 @@ int main() {
         while (flag) {
             cout << "Who want to do the trade: ";
             cin >> temp;
-            if (temp == "q") { cout << "\n"; exit(0); }
+            if (temp == "q") { cout << "\n";  return 0; }
             for (int i = 0; i < n; i++) {
                 if (stock_vec[i].get_owner_name() == temp) {
                     flag = false;

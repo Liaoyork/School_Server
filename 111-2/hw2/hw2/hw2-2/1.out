@@ -1,0 +1,139 @@
+Player 1 choose role: 
+1. Mage
+2. Warrior
+3. Vampire
+Player 2 choose role: 
+1. Mage
+2. Warrior
+3. Vampire
+Player 1: Mage
+HP: Attack: Defense: Speed: Magic Attack: 
+Player 2: Warrior
+HP: Attack: Defense: Speed: Crit Rate: 
+Round: 1
+player 2's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+-/        \-+-\  
+        |           [|]   
+       / \          / \   
+     p1: 100      p2: 120
+1. Attack
+2. Defense
+       ^_^       _    
+       ( )      ( )   
+      /-+-/0-----+-\  
+        |       [|]   
+       / \      / \   
+Round: 1
+player 1's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+-/        \-+-\  
+        |           [|]   
+       / \          / \   
+     p1: 70      p2: 120
+1. Attack
+2. Defense
+           ^_^       _    
+           ( )      ( )   
+          /-+-----o\-+-\  
+            |       [|]   
+           / \      / \   
+Round: 2
+player 2's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+-/        \-+-\  
+        |           [|]   
+       / \          / \   
+     p1: 70      p2: 80
+1. Attack
+2. Defense
+Round: 2
+player 1's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+-/       (--+-\  
+        |           [|]   
+       / \          / \   
+     p1: 70      p2: 80
+1. Attack
+2. Defense
+           ^_^       _    
+           ( )      ( )   
+          /-+---o (--+-\  
+            |       [|]   
+           / \      / \   
+0 damage
+Round: 3
+player 2's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+-/        \-+-\  
+        |           [|]   
+       / \          / \   
+     p1: 70      p2: 50
+1. Attack
+2. Defense
+       ^_^       _    
+       ( )      ( )   
+      /-+-/0-----+-\  
+        |       [|]   
+       / \      / \   
+Round: 3
+player 1's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+-/        \-+-\  
+        |           [|]   
+       / \          / \   
+     p1: 40      p2: 50
+1. Attack
+2. Defense
+Round: 4
+player 2's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+--)       \-+-\  
+        |           [|]   
+       / \          / \   
+     p1: 40      p2: 50
+1. Attack
+2. Defense
+       ^_^       _    
+       ( )      ( )   
+      /-+--) 0---+-\  
+        |       [|]   
+       / \      / \   
+Round: 4
+player 1's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+-/        \-+-\  
+        |           [|]   
+       / \          / \   
+     p1: 20      p2: 50
+1. Attack
+2. Defense
+           ^_^       _    
+           ( )      ( )   
+          /-+-----o\-+-\  
+            |       [|]   
+           / \      / \   
+Round: 5
+player 2's turn
+       ^_^           _    
+       ( )          ( )   
+      /-+-/        \-+-\  
+        |           [|]   
+       / \          / \   
+     p1: 20      p2: 10
+1. Attack
+2. Defense
+       ^_^       _    
+       ( )      ( )   
+      /-+-/0-----+-\  
+        |       [|]   
+       / \      / \   
+Player 1 lose

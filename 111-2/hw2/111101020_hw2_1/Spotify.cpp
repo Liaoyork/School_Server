@@ -61,9 +61,9 @@ void Spotify::addSong() {
 void Spotify::createUser() {
     string name, passwd;
     cout << "CREATE USER" << endl;
-    cout << "User name: ";
+    cout << "User Name: ";
     cin >> name;
-    cout << "User passwd: ";
+    cout << "User Passwd: ";
     cin >> passwd;
     for (int i = 0; i < (int)users.size(); i++) {
         if (users[i]->name == name) {
@@ -79,9 +79,9 @@ void Spotify::logIN() {
     int index = 0;
     string name, passwd;
     cout << "LOG IN" << endl;
-    cout << "User name: ";
+    cout << "User Name: ";
     cin >> name;
-    cout << "User passwd: ";
+    cout << "User Passwd: ";
     cin >> passwd;
     if ((int)users.size() == 0){
         cout << "The User doesn't exist" << endl;
@@ -112,14 +112,14 @@ void Spotify::logIN() {
 }
 void Spotify::logOUT() {
     cout << "LOG OUT" << endl;
-    cout << "Are You Sure To Log Out? (y/n) ";
+    cout << "Are You Sure to Log Out? (y/n) ";
 }
 void Spotify::printSongList() {
     cout << "12345678901234567890123456789012345" << endl;  // so werid
     for (int i = 0; i < (int)songs.size(); i++) {
         cout << left << setw(15) << songs[i]->name;
         cout << left << setw(15) << songs[i]->artist;
-        cout << left << setw(5) << songs[i]->song_len << endl;
+        cout << left << songs[i]->song_len << endl;
     }
 }
 void Spotify::printUserList() {

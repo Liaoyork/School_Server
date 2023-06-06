@@ -99,13 +99,13 @@ int main() {
             if (i == 2) {
                 if (players.at(0)->getDefence()) {
                     if (players.at(1)->getDefence()) {
-                        cout << "/-+-)        (-+-\\" << endl;
+                        cout << "/-+--)      (--+-\\" << endl;
                     } else {
-                        cout << "/-+-)        \\-+-\\" << endl;
+                        cout << "/-+--)       \\-+-\\" << endl;
                     }
                 } else {
                     if (players.at(1)->getDefence()) {
-                        cout << "/-+-/        (-+-\\" << endl;
+                        cout << "/-+-/       (--+-\\" << endl;
                     } else {
                         cout << "/-+-/        \\-+-\\" << endl;
                     }
@@ -179,13 +179,13 @@ int main() {
             if (i == 2) {
                 if (players.at(0)->getDefence()) {
                     if (players.at(1)->getDefence()) {
-                        cout << "/-+-)        (-+-\\" << endl;
+                        cout << "/-+--)      (--+-\\" << endl;
                     } else {
-                        cout << "/-+-)        \\-+-\\" << endl;
+                        cout << "/-+--)       \\-+-\\" << endl;
                     }
                 } else {
                     if (players.at(1)->getDefence()) {
-                        cout << "/-+-/        (-+-\\" << endl;
+                        cout << "/-+-/       (--+-\\" << endl;
                     } else {
                         cout << "/-+-/        \\-+-\\" << endl;
                     }

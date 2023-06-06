@@ -7,6 +7,7 @@
 using namespace std;
 // Add any Boolean Function for sorting you need
 bool sortSong(const Song *a, const Song *b);
+bool sortList(Playlist* o1, Playlist* o2);
 class User {
    private:
     friend class Spotify;
@@ -15,7 +16,7 @@ class User {
     Playlist *curr_list;               // points to  current playlist, Null at first
     vector<Playlist *> all_list;       // store all playlists of the user
     const vector<const Song *> songs;  // store the songs provided in streaming service (can't modified)
-
+    friend bool sortList(Playlist*,Playlist*);
     void show_list();    // show all playlists of the user
     void choose_list();  // choose a playlist
     void add_list();     // add a playlist

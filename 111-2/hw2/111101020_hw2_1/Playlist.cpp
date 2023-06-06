@@ -12,7 +12,7 @@ void Playlist::show_song() {
     for (int i = 0; i < (int)song_in_list.size(); i++) {
         cout << left << setw(15) << song_in_list[i]->name;
         cout << left << setw(15) << song_in_list[i]->artist;
-        cout << left << setw(5) << song_in_list[i]->song_len << endl;
+        cout << left << song_in_list[i]->song_len << endl;
     }
 }
 void Playlist::add_song() {
