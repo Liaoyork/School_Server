@@ -106,6 +106,7 @@ void Spotify::logIN() {
         cout << "Welcome, " << curr_user->name << endl;
     }
     if (!find) {
+        curr_user = nullptr;
         cout << "The Password is wrong" << endl;
         return;
     }
@@ -143,6 +144,7 @@ void Spotify::controlManual() {
                     goto UserPage;
                 }
             } else if (c == 'q' || c == 'Q') {
+                cout << "\n";
                 return;
             } else if (c == 'a' || c == 'A') {
                 addSong();

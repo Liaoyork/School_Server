@@ -184,7 +184,7 @@ int main(int argc, char*argv[]) {
     ptr_m->to_stu = curr_s;
 
     ptr_s = head_s->next;
-    while (ptr_s->next) {
+    while (ptr_s) {
         if (ptr_s->mood == -2) {
             student_node *curr = curr_s;
             // new new space
@@ -209,6 +209,12 @@ int main(int argc, char*argv[]) {
             while (temp->next->name != ptr_s->name) {
                 temp = temp->next;
             }
+            if (ptr_s->next == NULL){
+                temp->next = nullptr;  
+                delete ptr_s; 
+                ptr_s = head_s->next;  
+                break;
+            }
             curr = ptr_s->next;
             temp->next = curr;
             ptr_s->next = NULL;
@@ -230,7 +236,7 @@ int main(int argc, char*argv[]) {
     ptr_m->to_stu = curr_s;
 
     ptr_s = head_s->next;
-    while (ptr_s->next) {
+    while (ptr_s) {
         if (ptr_s->mood == 2) {
             student_node *curr = curr_s;
             // new new space
@@ -254,6 +260,12 @@ int main(int argc, char*argv[]) {
             student_node *temp = head_s;
             while (temp->next->name != ptr_s->name) {
                 temp = temp->next;
+            }
+            if (ptr_s->next == NULL){
+                temp->next = nullptr;  
+                delete ptr_s; 
+                ptr_s = head_s->next;  
+                break;
             }
             curr = ptr_s->next;
             temp->next = curr;
@@ -383,6 +395,12 @@ int main(int argc, char*argv[]) {
             while (temp->next->name != ptr_s->name) {
                 temp = temp->next;
             }
+            if (ptr_s->next == NULL){
+                temp->next = nullptr;  
+                delete ptr_s; 
+                ptr_s = head_s->next;  
+                break;
+            }
             curr = ptr_s->next;
             temp->next = curr;
             ptr_s->next = NULL;
@@ -427,6 +445,12 @@ int main(int argc, char*argv[]) {
             student_node *temp = head_s;
             while (temp->next->name != ptr_s->name) {
                 temp = temp->next;
+            }
+            if (ptr_s->next == NULL){
+                temp->next = nullptr;  
+                delete ptr_s; 
+                ptr_s = head_s->next;  
+                break;
             }
             curr = ptr_s->next;
             temp->next = curr;

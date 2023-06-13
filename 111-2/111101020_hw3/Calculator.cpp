@@ -1,6 +1,7 @@
 #include "Calculator.h"
-#include <termios.h>
+
 #include <bits/stdc++.h>
+#include <termios.h>
 using namespace std;
 
 Calculator::Calculator() {
@@ -25,62 +26,8 @@ void Calculator::pressSymbolButton(View* view) {
 
 void Calculator::pressEqualButton(View* view) {
     pressEqual = true;
-    dynamic_cast<Label*>(display)->setOutput(to_string(Calculator::evaluate(expression)));
+    dynamic_cast<Label*>(display)->setOutput(to_string(Calculator::evaluate2(expression)));
 }
-
-double Calculator::evaluate(string expression) {
-    stack<double> values;
-    stack<char> operators;
-
-    for (size_t i = 0; i < expression.length(); ++i) {
-        char ch = expression[i];
-        if (isdigit(ch) || ch == '.' || ch == '-') {
-            string numStr;
-            numStr += ch;
-            while (i + 1 < expression.length() && (isdigit(expression[i + 1]) || expression[i + 1] == '.' || expression[i + 1] == '-')) {
-                if (expression[i + 1] == '-'){
-                    while(i + 1 < expression.length() && (isdigit(expression[i + 1]) || expression[i + 1] == '.')){
-                        numStr += expression[i + 1];
-                        ++i;
-                    }
-                    operators.push('+');
-                    goto cha;
-                }
-                numStr += expression[i + 1];
-                ++i;
-            }
-        cha:
-            double value = stod(numStr);
-            values.push(value);
-        } else {
-            while (!operators.empty() && precedence(operators.top()) >= precedence(ch)) {
-                double b = values.top();
-                values.pop();
-                double a = values.top();
-                values.pop();
-                char op = operators.top();
-                operators.pop();
-                double result = applyOperator(a, b, op);
-                values.push(result);
-            }
-            operators.push(ch);
-        }
-    }
-
-    while (!operators.empty()) {
-        double b = values.top();
-        values.pop();
-        double a = values.top();
-        values.pop();
-        char op = operators.top();
-        operators.pop();
-        double result = applyOperator(a, b, op);
-        values.push(result);
-    }
-
-    return values.top();
-}
-
 
 void Calculator::run() {
     struct termios ter;
@@ -115,6 +62,6 @@ void Calculator::run() {
     }
 }
 
-Calculator::~Calculator(){
+Calculator::~Calculator() {
     delete window;
 }
