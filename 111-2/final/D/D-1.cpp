@@ -1,9 +1,9 @@
 #include <iostream>
+
 #include "AbstractContainer.hpp"
 #include "List.hpp"
 
-int main()
-{
+int main() {
     int arr1[] = {-1, -1, -1, -1, -1, 3, 5, 8, 1, 6};
     AbstractContainer<int> *Ptr = new List<int>(arr1, 10);
     cout << "Original: " << endl
@@ -37,8 +37,7 @@ int main()
     // loop times
     int times = Ptr->size() / 2;
     cout << "times: " << times << endl;
-    for (int i = 0; i < times; i++)
-    {
+    for (int i = 0; i < times; i++) {
         Ptr->erase(Ptr->begin());
         Ptr->erase(Ptr->end());
         Ptr->display();

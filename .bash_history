@@ -1,114 +1,3 @@
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-vim
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-vim
-g++ -o ex11_1 main.cpp Student.cpp Group.cpp EEE.cpp
-./ex11_1
-cd ../../
-ls
-cd lab10-1
-ls
-cd ex2
-ls
-
-ls
-vim
-make
-vim
-make
-vim
-make
-vim
-make
-./10-2
-cd ..
-ls
-cd ..
-cd lab9
-ls
-cd 9-2
-ls
-make
-./main
-./1
-make
-make clean
-make
-valgrind ./main 1.txt
-cd ../../
-ls
-cd lab7/
-ls
-cd ex1
-ls
-./1
-valgrind ./1
-cd ../ex2
-ls
-make
-./7-2
-cd ../../
-cd lab5
-ls
-cd 5-1
-ls
-./5-1
-cd ../../
-la
-cd lab11
-ls
-cd ex2
-ls
-cat *
-cat D1.in
-cat D2.in
-cd ../ex1
-ls
-vim
-ls
-cd
 git add .
 git commit -m "0522-1"
 git push origin main
@@ -1998,3 +1887,114 @@ make hw3-2
 ./hw3-2
 valgrind 
 valgrind ./hw3-2
+git add .
+cd 111-2/
+ls
+git add .
+dc
+cd 
+ls
+ls -a
+git add .
+git log
+git add .
+cd /tmp
+ls
+rm vscode-typescript1000 vscode-typescript1004
+rm -r vscode-typescript1000 vscode-typescript1004
+ls
+ls -a
+cd
+ls -a
+cd .vscode-server/
+ls
+cd
+rm -r .vscode-server/
+ls
+ls -a
+git add .
+git push origin main
+git commit -m "hw3 update"
+git push origin main
+ls
+git log
+exit
+ls
+cd 111-2/final/
+ls
+cd D
+ls
+vim
+make D-1
+./D-1
+vim
+make D-1
+vim
+make D-1
+./D-1
+vim
+make D-1
+vim
+make D-1
+vim
+make D-1
+./D-1
+vim
+make D-1
+./D-1
+vim
+make D-1
+./D-1
+vim
+make D-1
+./D-1
+vim
+ls
+cd 111-2/final/
+ls
+cd D/
+ls
+make D-1
+valgrind ./D-1 
+ls
+vim 
+vim
+vim Vector.hpp
+cd 111-2/final/
+cd D/
+ls
+vim Vector.hpp 
+make D-2
+./D-2
+vim Vector.hpp 
+make D-2
+./D-2
+ls
+vim Vector.hpp 
+make D-2
+./D-2
+vim Vector.hpp 
+make D-2
+./D-2
+vim Vector.hpp 
+make D-2
+./D-2
+vim Vector.hpp 
+make D-2
+valgrind ./D-2
+ls
+cd D-3.cpp
+vim D-3.cpp
+vim MySTL.hpp
+make D-3
+vim D-3.cpp
+'exit
+
+
+
+
+
+
+
+
+exit
